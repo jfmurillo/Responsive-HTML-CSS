@@ -1,0 +1,7 @@
+HTML = Content of the page / Nouns
+CSS = presentation, style / Adjective 
+JS = Programming language, dynamic effects and web apps / Verb
+
+HTML = Hyper Text Markup Language
+Structure and describe content of a webpage
+	Consist of elements 
